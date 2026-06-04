@@ -4,6 +4,10 @@ AI-powered PDF Question Answering chatbot built using **Streamlit, LangChain, Hu
 
 Upload your PDF notes and ask questions directly from the uploaded document. The chatbot retrieves relevant information and generates answers using AI.
 
+🚀 **Live Demo:** [https://smartnotebot.streamlit.app](https://smartnotebot.streamlit.app)
+
+💻 **GitHub Repo:** [https://github.com/Aslam-Siddiki/SmartNoteBot](https://github.com/Aslam-Siddiki/SmartNoteBot)
+
 ---
 
 ## 🚀 Features
@@ -26,8 +30,6 @@ Upload your PDF notes and ask questions directly from the uploaded document. The
 ### Chat Interface
 
 ![Chat Interface](assets/demo2.png)
-
-> Place your screenshots inside the `assets/` folder.
 
 ---
 
@@ -69,7 +71,7 @@ MYCHATBOT/
 
 ```bash
 git clone https://github.com/Aslam-Siddiki/SmartNoteBot.git
-cd NoteBot
+cd SmartNoteBot
 ```
 
 ---
@@ -85,6 +87,12 @@ Activate Environment
 
 ```bash
 .venv\Scripts\activate
+```
+
+**Mac/Linux**
+
+```bash
+source .venv/bin/activate
 ```
 
 ---
@@ -169,7 +177,6 @@ python-dotenv
 * Export Answers
 * Voice Support
 * Better UI
-* Deploy to Streamlit Cloud
 
 ---
 
